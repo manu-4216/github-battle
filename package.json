@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/manu-4216/github-battle#readme",
   "dependencies": {
+    "axios": "^0.13.1",
     "react": "^15.3.0",
     "react-dom": "^15.3.0",
     "react-router": "^2.6.1"
