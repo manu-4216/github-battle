@@ -3,14 +3,6 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {
-    "start": "webpack-dev-server",
-    "production": "webpack -p"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/manu-4216/github-battle.git"
-  },
   "author": "manuel Micu",
   "license": "ISC",
   "bugs": {
@@ -30,5 +22,13 @@
     "html-webpack-plugin": "^2.22.0",
     "webpack": "^1.13.1",
     "webpack-dev-server": "^1.14.1"
+  },
+  "scripts": {
+    "start": "webpack-dev-server",
+    "production": "webpack -p"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manu-4216/github-battle.git"
   }
 }
